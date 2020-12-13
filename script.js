@@ -11,12 +11,7 @@ function maniBos () {
 function manibos2 () {
     document.getElementById("maniBosA").innerHTML = "Manini bosganing uchun Rahmat 😊";
     document.querySelector('body').style.background = "dodgerblue";
-    let orqagadiv = document.createElement('h1');
-    let orqagaA = document.createElement('a');
-    orqagaA.innerHTML = "salom";
     maniboss.style.border = "rgb(123, 255, 0) solid 5px";
-    orqagadiv.appendChild(orqagaA);
-    document.querySelector("body").appendChild(h1);
 }
 // function manibos2 () {
 //     maniboss.style.background = "rgb(123, 255, 0)";
